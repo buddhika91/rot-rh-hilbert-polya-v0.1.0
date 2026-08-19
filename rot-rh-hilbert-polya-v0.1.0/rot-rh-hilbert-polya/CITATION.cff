@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this research code, cite the repository version and clearly state that the exact Xi identity remains open."
+title: "ROT-RH Hilbert-Polya Operator"
+type: software
+version: 0.1.0
+date-released: 2026-08-18
+license: MIT

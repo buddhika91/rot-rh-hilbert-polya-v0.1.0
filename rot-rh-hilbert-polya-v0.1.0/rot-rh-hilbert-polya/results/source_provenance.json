@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "path": "research/legacy_pipeline/rot_rh_full_arithmetic_tail_v100_1.py",
+      "sha256": "386553942eaf73953d95aacab6f9ba3f5677d716811b42c0ad86f9196e44a59e",
+      "bytes": 16531
+    },
+    {
+      "path": "research/legacy_pipeline/rot_rh_full_rot_hp_pipeline_v97.py",
+      "sha256": "a399a6bd8bccea17d883a801286dff45cb387f1d6130911cab6f107cfb5e0b24",
+      "bytes": 29508
+    },
+    {
+      "path": "research/legacy_pipeline/rot_rh_pnt_finite_part_full_pipeline_v102_1.py",
+      "sha256": "8378e7c7c0a8d773c51ca0ba9fcee289ac8a19c0584d62c73cfc904de6285b79",
+      "bytes": 54496
+    },
+    {
+      "path": "research/legacy_pipeline/rot_rh_pure_mangoldt_prime_phase_dirac_jacobi_operator_audit.py",
+      "sha256": "4d01feb7374f0425fb676b0c871aa7f08bc7faeb21b8251549ab5ff487b8da12",
+      "bytes": 45439
+    },
+    {
+      "path": "research/legacy_pipeline/rot_rh_tail_midpoint_s1_v99.py",
+      "sha256": "1ffb1377ae0d9557c235530b023aafc919ca5e7bc7da27fd6c494c640d207c6d",
+      "bytes": 6520
+    },
+    {
+      "path": "research/legacy_pipeline/rot_rh_weyl_tail_completion_v98.py",
+      "sha256": "9788154c2d526253d453349175a7fd48450cf9fe918fe25f06cfdc545d9f6ae0",
+      "bytes": 16092
+    },
+    {
+      "path": "research/red_team/rot_rh_adaptive_mesh_surrogates_v129.py",
+      "sha256": "e6a0b9ba2d7525c5ae1d9c44f18e058321b135906dc5c37c408a4c50832b7934",
+      "bytes": 21827
+    }
+  ]
+}

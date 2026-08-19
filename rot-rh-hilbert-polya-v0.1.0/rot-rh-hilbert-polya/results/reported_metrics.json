@@ -1,0 +1,46 @@
+{
+  "status": "NUMERICAL_HILBERT_POLYA_CANDIDATE_NOT_RH_PROOF",
+  "as_of": "2026-08-18",
+  "note": "Reported benchmark values from the v97-v100.1 project runs; not recomputed by release CI.",
+  "v98": {
+    "raw_det_symmetric_rms": 0.01564988,
+    "weyl_completed_det_symmetric_rms": 5.793763e-05,
+    "approx_improvement_factor": 270.1159850687714
+  },
+  "v99": {
+    "depth": 48,
+    "Ecut": 139.732482236,
+    "prefix_S1": 0.01845217966,
+    "weyl_tail_S1": 0.0046719998137,
+    "archimedean_S1": -8.102104651e-10,
+    "prime_density_S1": 6.3981900359e-06
+  },
+  "v100_1": {
+    "L": 16000,
+    "depths": [
+      32,
+      48
+    ],
+    "depth_32_to_48_moment_relative_l2": 1.65e-06,
+    "depth_32_to_48_det_relative_l2": 6.442e-07,
+    "freeze_sha256_reported": "fb7b2f9e36cce2f3e0bcb25ce5bea2d0c3d2c13548f7d0906d2716ed01b82596",
+    "depth_32": {
+      "Ecut": 105.446614,
+      "weyl_S1": 0.005766178928,
+      "arch_S1": -1.885e-09,
+      "prime_S1": -6.086669216e-06,
+      "midpoint_S1": -4.49681198e-05,
+      "completed_S1": 0.02310493074494
+    },
+    "depth_48": {
+      "Ecut": 139.732482,
+      "weyl_S1": 0.004671999814,
+      "arch_S1": -8.102e-10,
+      "prime_S1": 6.398190036e-06,
+      "midpoint_S1": -2.560797613e-05,
+      "completed_S1": 0.02310496887752
+    },
+    "xi_zeta_known_zeros_pre_freeze": false,
+    "rh_proof": false
+  }
+}
